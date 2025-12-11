@@ -1,0 +1,42 @@
+Simulation Output 
+HELLO WORLD!
+
+Job ID: 0001 TTL=6 TLL=1 TTC=6 LLC=1
+Termination Code: 0 - Normal Termination
+
+
+Job ID: 0002 TTL=6 TLL=1 TTC=2 LLC=0
+Termination Code: 1 - Out of Data
+
+X
+
+Job ID: 0003 TTL=6 TLL=1 TTC=6 LLC=2
+Termination Code: 2 - Line Limit Exceeded
+
+
+Job ID: 0004 TTL=2 TLL=1 TTC=2 LLC=0
+Termination Code: 3 - Time Limit Exceeded
+
+
+Job ID: 0005 TTL=6 TLL=1 TTC=1 LLC=0
+Termination Code: 4 - Operation Code Error
+
+
+Job ID: 0006 TTL=6 TLL=1 TTC=1 LLC=0
+Termination Code: 5 - Operand Error
+
+
+Job ID: 0007 TTL=6 TLL=1 TTC=4 LLC=0
+Termination Code: 6 - Invalid Page Fault
+
+BAD
+
+Job ID: 0008 TTL=6 TLL=1 TTC=6 LLC=1
+Termination Code: 7 - Time Limit Exceeded + Operation Code Error
+
+ERR
+
+Job ID: 0009 TTL=6 TLL=1 TTC=6 LLC=1
+Termination Code: 8 - Time Limit Exceeded + Operand Error
+
+Execution complete.
